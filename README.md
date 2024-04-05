@@ -1,4 +1,7 @@
 <h1 align="center">Portfolio</h1>
+<p align="center">
+  <img src="2024-04-05_11.gif" width="300" height="200">
+</p>
 
 <h4 align="center" > If you've ever enjoyed a project of mine or simply want to share a coffee, that'd be awesome! 
 
